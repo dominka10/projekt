@@ -45,6 +45,7 @@ function Header({
                   GitHub
                 </a>
               </Link>
+              <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnaszemiasto.pl%2Fdelfiny-poznaj-tajemnice-i-zwyczaje-tych-inteligentnych%2Far%2Fc8-4499262&psig=AOvVaw304NFdcJ02dBENMB65GbEl&ust=1648127283315000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjzxNym3PYCFQAAAAAdAAAAABAD"/>
             </li>
           </ul>
         </div>
